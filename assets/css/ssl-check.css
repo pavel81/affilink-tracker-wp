@@ -1,0 +1,28 @@
+
+.ssl-check-result {
+  padding: 0.5em;
+  margin-top: 0.5em;
+  border-radius: 5px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+.ssl-check-ok {
+  background-color: #e6f9e6;
+  color: #2e7d32;
+  border: 1px solid #81c784;
+}
+.ssl-check-error {
+  background-color: #ffe6e6;
+  color: #c62828;
+  border: 1px solid #ef5350;
+}
+.ssl-check-warning {
+  background-color: #fff9e6;
+  color: #ff8f00;
+  border: 1px solid #ffb300;
+}
+.ssl-check-icon {
+  font-size: 18px;
+}

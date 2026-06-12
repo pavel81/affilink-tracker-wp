@@ -1,0 +1,26 @@
+.affilink-url-diff {
+  border-collapse: collapse;
+  width: 100%;
+}
+.affilink-url-diff th, .affilink-url-diff td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+.affilink-url-diff tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.affilink-url-diff tr:hover {
+  background-color: #ddd;
+}
+.affilink-url-diff th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #4CAF50;
+  color: white;
+}
+.affilink-diff-highlight {
+  background-color: #fff3cd;
+}
+.affilink-diff-different {
+  background-color: #f8d7da;
+}

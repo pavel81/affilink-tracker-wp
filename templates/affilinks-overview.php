@@ -1,0 +1,1 @@
+<div class='wrap'><h2>Přehled affil odkazů</h2></div>

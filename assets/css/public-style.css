@@ -1,0 +1,6 @@
+
+.affilink-style-karta { border-radius: 6px; box-shadow: 0 1px 2px rgba(0,0,0,0.1); }
+.affilink-style-panel { background: #eef; border-left: 5px solid #339; }
+.affilink-style-transparent { background: transparent; border: none; }
+.affilink-style-modern { border: 2px solid #0099cc; border-radius: 10px; padding: 1.2em; transition: 0.3s; }
+.affilink-style-modern:hover { background: #f9f9f9; }
