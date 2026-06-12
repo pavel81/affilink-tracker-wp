@@ -1,0 +1,25 @@
+# dependencies
+/vendor/
+
+# build / runtime
+/var/
+*.log
+
+# test / dev
+
+
+# env
+.env
+.env.*
+
+# ide / os
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# misc
+*.zip
+*.sql
+*.txt
+.phpunit.result.cache
